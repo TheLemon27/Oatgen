@@ -17,7 +17,7 @@ I am aware the game already has a random level generator, but this tool allows y
 
 I created this tool for myself and am terrible at coding, so sorry if it's not the best.
 
-Most levels you generate will do virtually nothing. The base game's generator has this problem too, it just a risk you take when randomly generating levels.
+Most levels you generate will do virtually nothing. The base game's generator has this problem too, it's just a risk you take when randomly generating levels.
 
 This tool is open source, so feel free to tinker with it.
 
